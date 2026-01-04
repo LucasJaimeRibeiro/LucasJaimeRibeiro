@@ -14,16 +14,16 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 <p align="left">
   <a href="https://github.com/lucasjaimeribeiro">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-LucasJaimeRibeiro-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@lucas_jaime_r-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
+    <img src="https://img.shields.io/badge/TikTok--000000?style=for-the-badge&logo=tiktok" />
   </a>
   <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
